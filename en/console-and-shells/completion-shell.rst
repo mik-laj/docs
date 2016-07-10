@@ -63,6 +63,7 @@ Bash Example
 
 The following bash example comes from the original author::
 
+    #!/bin/bash
     # bash completion for CakePHP console
 
     _cake()
